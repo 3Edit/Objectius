@@ -1,0 +1,1 @@
+La cosa va de que m'agradaria molt tenir un sistema per a crear els teus propis modes, i d'alguna forma poder-ho guardar o fins i tot si prefereixes picar el teu propi codi perque aquest funcioni de forma adequada :)
